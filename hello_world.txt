@@ -1,2 +1,2 @@
 Hello World! This is my first file in murtestrepo.
-# git test 6
+# git test 7
